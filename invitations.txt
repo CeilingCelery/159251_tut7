@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+	<head></head>
+	<body>
+		<p>
+			<em>
+			To<br>
+			Tim MacDonald<br>
+			100 Main Street<br>
+			Palmerston North
+		</em></p>
+		<p>
+			<em>
+			Dear Mr. Tim,<br><br>
+			
+			I would like to invite you to a party this Saturday, 8PM at my place.<br><br>
+			Cheers, me<br><br>
+			</em>
+			-------------------------------------------------------------------------
+		</p>
+	</body>
+</html>
+<html>
+	<head></head>
+	<body>
+		<p>
+			<em>
+			To<br>
+			Tom Smith<br>
+			42 Cuba Street<br>
+			Palmerston North
+		</em></p>
+		<p>
+			<em>
+			Dear Mr. Tom,<br><br>
+			
+			I would like to invite you to a party this Saturday, 8PM at my place.<br><br>
+			Cheers, me<br><br>
+			</em>
+			-------------------------------------------------------------------------
+		</p>
+	</body>
+</html>
+<html>
+	<head></head>
+	<body>
+		<p>
+			<em>
+			To<br>
+			Amy Turner<br>
+			3 Worchester Street<br>
+			Palmerston North
+		</em></p>
+		<p>
+			<em>
+			Dear Mrs. Amy,<br><br>
+			
+			I would like to invite you to a party this Saturday, 8PM at my place.<br><br>
+			Cheers, me<br><br>
+			</em>
+			-------------------------------------------------------------------------
+		</p>
+	</body>
+</html>
+<html>
+	<head></head>
+	<body>
+		<p>
+			<em>
+			To<br>
+			Anne O'Brian<br>
+			4 Manchester Street<br>
+			Feilding
+		</em></p>
+		<p>
+			<em>
+			Dear Mrs. Anne,<br><br>
+			
+			I would like to invite you to a party this Saturday, 8PM at my place.<br><br>
+			Cheers, me<br><br>
+			</em>
+			-------------------------------------------------------------------------
+		</p>
+	</body>
+</html>
+<html>
+	<head></head>
+	<body>
+		<p>
+			<em>
+			To<br>
+			Fred Miller<br>
+			55 Salisbury Street<br>
+			Ashhurst
+		</em></p>
+		<p>
+			<em>
+			Dear Mr. Fred,<br><br>
+			
+			I would like to invite you to a party this Saturday, 8PM at my place.<br><br>
+			Cheers, me<br><br>
+			</em>
+			-------------------------------------------------------------------------
+		</p>
+	</body>
+</html>
+<html>
+	<head></head>
+	<body>
+		<p>
+			<em>
+			To<br>
+			Max Meyer<br>
+			77 Main Street<br>
+			Palmerston North
+		</em></p>
+		<p>
+			<em>
+			Dear Mr. Max,<br><br>
+			
+			I would like to invite you to a party this Saturday, 8PM at my place.<br><br>
+			Cheers, me<br><br>
+			</em>
+			-------------------------------------------------------------------------
+		</p>
+	</body>
+</html>
+<html>
+	<head></head>
+	<body>
+		<p>
+			<em>
+			To<br>
+			Walter Mueller<br>
+			22 Cook Street<br>
+			Palmerston North
+		</em></p>
+		<p>
+			<em>
+			Dear Mr. Walter,<br><br>
+			
+			I would like to invite you to a party this Saturday, 8PM at my place.<br><br>
+			Cheers, me<br><br>
+			</em>
+			-------------------------------------------------------------------------
+		</p>
+	</body>
+</html>
+<html>
+	<head></head>
+	<body>
+		<p>
+			<em>
+			To<br>
+			Kate Wang<br>
+			12 Albert Street<br>
+			Palmerston North
+		</em></p>
+		<p>
+			<em>
+			Dear Mrs. Kate,<br><br>
+			
+			I would like to invite you to a party this Saturday, 8PM at my place.<br><br>
+			Cheers, me<br><br>
+			</em>
+			-------------------------------------------------------------------------
+		</p>
+	</body>
+</html>
